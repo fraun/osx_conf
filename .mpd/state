@@ -1,0 +1,92 @@
+sw_volume: 80
+audio_device_state:1:My Mac Device
+state: pause
+current: 36
+time: 21.826000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:iTunes/iTunes Media/Music/Alvvays/Alvvays/01 Adult Diversion.m4a
+1:iTunes/iTunes Media/Music/Alvvays/Alvvays/02 Archie, Marry Me.m4a
+2:iTunes/iTunes Media/Music/Alvvays/Alvvays/03 Ones Who Love You.m4a
+3:iTunes/iTunes Media/Music/Alvvays/Alvvays/04 Next of Kin.m4a
+4:iTunes/iTunes Media/Music/Alvvays/Alvvays/05 Party Police.m4a
+5:iTunes/iTunes Media/Music/Alvvays/Alvvays/06 The Agency Group.m4a
+6:iTunes/iTunes Media/Music/Alvvays/Alvvays/07 Dives.m4a
+7:iTunes/iTunes Media/Music/Alvvays/Alvvays/08 Atop a Cake.m4a
+8:iTunes/iTunes Media/Music/Alvvays/Alvvays/09 Red Planet.m4a
+9:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/01 Tears of Joy.mp3
+10:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/02 Everything Is New.mp3
+11:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/03 Suffering You, Suffering Me.mp3
+12:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/04 Not Mine to Love.mp3
+13:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/05 The Pieces.mp3
+14:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/06 Number One.mp3
+15:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/07 The Queen's Nose.mp3
+16:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/08 Complete Surrender.mp3
+17:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/09 Paraguay and Panama.mp3
+18:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/10 Dependable People and Things That I'm Sure Of.mp3
+19:iTunes/iTunes Media/Music/Slow Club/Complete Surrender/11 Wanderer Wandering.mp3
+20:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/01 Zero.mp3
+21:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/02 Heads Will Roll.mp3
+22:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/03 Soft Shock.mp3
+23:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/04 Skeletons.mp3
+24:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/05 Dull Life.mp3
+25:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/06 Shame And Fortune.mp3
+26:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/07 Runaway.mp3
+27:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/08 Dragon Queen.mp3
+28:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/09 Hysteric.mp3
+29:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/10 Little Shadow.mp3
+30:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/11 Soft Shock - acoustic.mp3
+31:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/12 Skeletons - acoustic.mp3
+32:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/13 Hysteric - acoustic.mp3
+33:iTunes/iTunes Media/Music/Yeah Yeah Yeahs/It's Blitz!/15 Faces.mp3
+34:iTunes/iTunes Media/Music/Daughter/If You Leave/01 Winter.mp3
+35:iTunes/iTunes Media/Music/Daughter/If You Leave/02 Smother.mp3
+36:iTunes/iTunes Media/Music/Daughter/If You Leave/03 Youth.mp3
+37:iTunes/iTunes Media/Music/Daughter/If You Leave/04 Still.mp3
+38:iTunes/iTunes Media/Music/Daughter/If You Leave/05 Lifeforms.mp3
+39:iTunes/iTunes Media/Music/Daughter/If You Leave/06 Tomorrow.mp3
+40:iTunes/iTunes Media/Music/Daughter/If You Leave/07 Human.mp3
+41:iTunes/iTunes Media/Music/Daughter/If You Leave/08 Touch.mp3
+42:iTunes/iTunes Media/Music/Daughter/If You Leave/09 Amsterdam.mp3
+43:iTunes/iTunes Media/Music/Daughter/If You Leave/10 Shallows.mp3
+44:iTunes/iTunes Media/Music/Daughter/His Young Heart/01 Landfill.mp3
+45:iTunes/iTunes Media/Music/Daughter/His Young Heart/02 The Woods.mp3
+46:iTunes/iTunes Media/Music/Daughter/His Young Heart/03 Candles.mp3
+47:iTunes/iTunes Media/Music/Daughter/His Young Heart/04 Switzerland.mp3
+48:iTunes/iTunes Media/Music/Daughter/The Wild Youth/01 Home.mp3
+49:iTunes/iTunes Media/Music/Daughter/The Wild Youth/02 Medicine.mp3
+50:iTunes/iTunes Media/Music/Daughter/The Wild Youth/03 Youth.mp3
+51:iTunes/iTunes Media/Music/Daughter/The Wild Youth/04 Love.mp3
+52:iTunes/iTunes Media/Music/Daughter/The Wild Youth/01 Home.mp3
+53:iTunes/iTunes Media/Music/Daughter/The Wild Youth/02 Medicine.mp3
+54:iTunes/iTunes Media/Music/Daughter/The Wild Youth/03 Youth.mp3
+55:iTunes/iTunes Media/Music/Daughter/The Wild Youth/04 Love.mp3
+56:iTunes/iTunes Media/Music/MGMT/MGMT/01 - Alien Days.mp3
+57:iTunes/iTunes Media/Music/MGMT/MGMT/02 - Cool Song No. 2.mp3
+58:iTunes/iTunes Media/Music/MGMT/MGMT/03 - Mystery Disease.mp3
+59:iTunes/iTunes Media/Music/MGMT/MGMT/04 - Introspection.mp3
+60:iTunes/iTunes Media/Music/MGMT/MGMT/05 - Your Life Is a Lie.mp3
+61:iTunes/iTunes Media/Music/MGMT/MGMT/06 - A Good Sadness.mp3
+62:iTunes/iTunes Media/Music/MGMT/MGMT/07 - Astro-Mancy.mp3
+63:iTunes/iTunes Media/Music/MGMT/MGMT/08 - I Love You Too, Death.mp3
+64:iTunes/iTunes Media/Music/MGMT/MGMT/09 - Plenty Of Girls In The Sea.mp3
+65:iTunes/iTunes Media/Music/MGMT/MGMT/10 - An Orphan Of Fortune.mp3
+66:iTunes/iTunes Media/Music/Metronomy/Nights out/01 Night Out Intro.mp3
+67:iTunes/iTunes Media/Music/Metronomy/Nights out/10 Back On The Motorway.mp3
+68:iTunes/iTunes Media/Music/Metronomy/Nights out/11 On Dancefloors.mp3
+69:iTunes/iTunes Media/Music/Metronomy/Nights out/12 Nights Outro.mp3
+70:iTunes/iTunes Media/Music/Metronomy/Nights out/02 The End Of You Too.mp3
+71:iTunes/iTunes Media/Music/Metronomy/Nights out/03 Radio Ladio.mp3
+72:iTunes/iTunes Media/Music/Metronomy/Nights out/04 My Heart Rate Rapid.mp3
+73:iTunes/iTunes Media/Music/Metronomy/Nights out/05 Heartbreaker.mp3
+74:iTunes/iTunes Media/Music/Metronomy/Nights out/06 On The Motorway.mp3
+75:iTunes/iTunes Media/Music/Metronomy/Nights out/07 Side 2.mp3
+76:iTunes/iTunes Media/Music/Metronomy/Nights out/08 Holiday.mp3
+77:iTunes/iTunes Media/Music/Metronomy/Nights out/09 A Thing For Me.mp3
+playlist_end
